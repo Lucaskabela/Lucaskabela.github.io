@@ -6,6 +6,7 @@ This repository host the html, css, and javascript code for my personal website.
 Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
                 http://texasacm.org/                (for the aesthetics)
                 http://www.garysheng.com/           (personal branding)
+                https://lmms.io/                    (style, aesthetics)
 
 #Feature backlog:                                                        Points
 
