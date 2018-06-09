@@ -2,13 +2,13 @@
 # Code for Website: 
 This repository host the html, css, and javascript code for my personal website.
 
-#Planning/Design:
+# Planning/Design:
 Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
                 http://texasacm.org/                (for the aesthetics)
                 http://www.garysheng.com/           (personal branding)
                 https://lmms.io/                    (style, aesthetics)
 
-#Feature backlog:                                                        Points
+# Feature backlog:                                                        Points
 
 ~ Contact page (with link to LinkedIn, other social medi, no css)           5
 
