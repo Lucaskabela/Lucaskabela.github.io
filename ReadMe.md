@@ -10,7 +10,10 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 
 # Feature backlog:                                                        Points
 
-~ Contact page (with link to LinkedIn, other social medi, no css)           5
++ indicates completed
+~ indicates to do
+
++ Contact page (with link to LinkedIn, other social medi, no css)           5
 
     AC: 1.  Links to at least 3 social media / informative pages to get 
             in contact with me
@@ -18,7 +21,7 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
         
         Comment:  Does not have to be its own page!
 
-~ About me page (with info about my career!)                                3
++ About me page (with info about my career!)                                3
     
     AC: 1.  Provides information about me, what I am passionate about, direction
         2.  Info on degree, some experiences
