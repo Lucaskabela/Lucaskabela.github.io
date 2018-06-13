@@ -13,22 +13,23 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 + indicates completed
 ~ indicates to do
 
-+ Contact page (with link to LinkedIn, other social medi, no css)           5
+~ Contact page Css)                                                         8
 
-    AC: 1.  Links to at least 3 social media / informative pages to get 
-            in contact with me
-        2.  Links are associated with icons for the proper website 
+    AC: 1.  Links are presented in official manner (may use a library or boot)
         
-        Comment:  Does not have to be its own page!
 
-+ About me page (with info about my career!)                                3
+~ About me page (css)                                                       3
     
-    AC: 1.  Provides information about me, what I am passionate about, direction
-        2.  Info on degree, some experiences
+    AC: 1.  Clean info into succinct bullets
+        2.  Add some form of formatting
 
-~ Projects/Career page (info about things I have done)                      5
+~ Projects/Career page (css)                                                5
     
-    AC: 1.  Provides a link to resume
-        2.  Provide history of personal projects and or career so far
-        3.  Include graphics for various stages of career
+    AC: 1.  Provides style for project history
+        2. Graphics or formatting
+
+~ Pick Theme                                                                3
+
+    AC: 1. Visually pleasing color scheme
+        2. Apply to headers and background
         
