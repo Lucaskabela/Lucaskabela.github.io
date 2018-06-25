@@ -2,10 +2,6 @@ html{
     text-align: center;
 }
 
-body{
-    background-color: #8EE4AF;
-}
-
 header {
     font-family: "Times New Roman", Times, serif;
     text-align: center;
@@ -28,22 +24,34 @@ h2{
     margin-bottom: : auto;
 }
 
-#career{
-    border-style: solid;
+#Career{
     display: block;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 25px;
-    margin-bottom: : 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: : auto;
+    background-color: #EDF5E1;
 }
 
-#about{
-    border-style: dotted;
+#About{
     display: block;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 25px;
-    margin-bottom: : 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: : auto;
+    background-color: #EDF5EF;
+}
+
+#Skills{
+    background-color: #EDF5EF;
+}
+
+#Contact{
+     background-color: #8EE4AF;
+}
+
+#Intro{
+    background-color: #8EE4AF;
 }
 
 .media {

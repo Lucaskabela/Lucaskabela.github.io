@@ -38,3 +38,4 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
     
     AC: 1.  Create a section for cool projects, host them or redirect to them
             These should be computer science projects 
+
