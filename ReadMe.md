@@ -15,7 +15,7 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 + indicates completed
 ~ indicates to do
 
-~ Create divisons/natrual breaks in pages                                   8
++ Create divisons/natrual breaks in pages                                   8
 
     AC: 1.  Different pages/boxes for different segments
         
@@ -23,9 +23,9 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 ~ Apply More style                                                          5
 
     AC: 1.  Page needs to have better readability in terms of style
-        2.  Need to correct formatting on the Career section
+        2.  Need to correct formatting 
 
-~ Get appropriate UHV Image                                                 1
++ Get appropriate UHV Image                                                 1
 
     AC: 1.  UHV image is replaced with a white background
     
@@ -38,3 +38,4 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
     
     AC: 1.  Create a section for cool projects, host them or redirect to them
             These should be computer science projects 
+
