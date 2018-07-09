@@ -23,7 +23,10 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 ~ Apply More style                                                          5
 
     AC: 1.  Page needs to have better readability in terms of style
+<<<<<<< HEAD
         1.5 Seperate sections of my career
+=======
+>>>>>>> 8aed1018d4f43d71a1ac122fcd285ea12d2a3b47
         2.  Need to correct formatting 
 
 + Get appropriate UHV Image                                                 1
