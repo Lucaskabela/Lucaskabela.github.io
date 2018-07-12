@@ -15,24 +15,15 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 + indicates completed
 ~ indicates to do
 
-+ Create divisons/natrual breaks in pages                                   8
+~ Center my career segment                                                  2
 
-    AC: 1.  Different pages/boxes for different segments
-        
+    AC: 1. Text under my Career is centered 
+        2. Text under my career is distinct (seperated)
 
-~ Apply More style                                                          5
+~ Nav bar                                                                   5
+    AC: 1. Nav bar is added to the page to take to differet slides
+        2. Nav bar replaces Lucas Homepage header
 
-    AC: 1.  Page needs to have better readability in terms of style
-<<<<<<< HEAD
-        1.5 Seperate sections of my career
-=======
->>>>>>> 8aed1018d4f43d71a1ac122fcd285ea12d2a3b47
-        2.  Need to correct formatting 
-
-+ Get appropriate UHV Image                                                 1
-
-    AC: 1.  UHV image is replaced with a white background
-    
 ~ Fun section/other projects                                                3
     
     AC: 1.  Another section is added for cool things I am working on/things I 
