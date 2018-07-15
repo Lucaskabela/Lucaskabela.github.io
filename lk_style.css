@@ -20,6 +20,14 @@ h1, h2, h3{
     margin:0;
 }
 
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+
 .slide{
     display: block;
     width: 100%;
@@ -52,6 +60,15 @@ h1, h2, h3{
   transform: translate(-50%, -50%);
 }
 
+#navbar{
+  background-color: #8EE4AF;
+  background: solid;
+}
+
+.active {
+    background-color: #000000;
+    color: white;
+}
 
 #segment-wrapper{
     border-style: none none solid double;
