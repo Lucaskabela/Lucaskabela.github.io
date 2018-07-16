@@ -30,9 +30,9 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 
 
 
-
 Shelved:
 
+=======
 ~ Fun section/other projects                                                3
     
     AC: 1.  Another section is added for cool things I am working on/things I 
