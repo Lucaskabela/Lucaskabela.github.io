@@ -15,14 +15,23 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 + indicates completed
 ~ indicates to do
 
-~ Center my career segment                                                  2
+~ Fix Responsiveness                                                        8
+    
+    AC: 1.  Ensure page is responsive for all sizes of  browser
 
-    AC: 1. Text under my Career is centered 
-        2. Text under my career is distinct (seperated)
+~ Change contact to entire section                                          2
+    
+    AC: 1. Contact is own section that can navigate too
+        2. Added to navbar
+    
+~ Further partition my career segment                                       3
 
-~ Nav bar                                                                   5
-    AC: 1. Nav bar is added to the page to take to differet slides
-        2. Nav bar replaces Lucas Homepage header
+    AC: 1. Text under my career is distinct (seperated) similar to gary sheng
+
+
+
+
+Shelved:
 
 ~ Fun section/other projects                                                3
     
