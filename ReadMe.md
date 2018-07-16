@@ -20,10 +20,6 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
     AC: 1. Text under my Career is centered 
         2. Text under my career is distinct (seperated)
 
-~ Nav bar                                                                   5
-    AC: 1. Nav bar is added to the page to take to differet slides
-        2. Nav bar replaces Lucas Homepage header
-
 ~ Fun section/other projects                                                3
     
     AC: 1.  Another section is added for cool things I am working on/things I 
