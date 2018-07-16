@@ -20,14 +20,9 @@ h1, h2, h3{
     margin:0;
 }
 
+
+
 .slide{
-    display: block;
-    width: 100%;
-    min-height: 100%;
-    position: relative;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 #text-wrapper{
@@ -52,6 +47,19 @@ h1, h2, h3{
   transform: translate(-50%, -50%);
 }
 
+#navbar{
+  background-color: #8EE4AF;
+  background: solid;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 300;
+}
+
+.active {
+    background-color: #379683;
+    color: white;
+}
 
 #segment-wrapper{
     border-style: none none solid double;
