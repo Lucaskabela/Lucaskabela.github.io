@@ -23,7 +23,7 @@ $('document').ready(function(){
 	    , id = $el.attr('href');
 	 
 	  $('html, body').animate({
-	    scrollTop: $(id).offset().top - nav_height
+	    scrollTop: $(id).offset().top - nav_height + 10
 	  }, 500);
 	 
 	  return false;

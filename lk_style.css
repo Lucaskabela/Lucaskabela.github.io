@@ -57,8 +57,8 @@ h1, h2, h3{
 }
 
 .active {
-    background-color: #379683;
-    color: white;
+    border-style: none none solid none;
+    border-color: white;
 }
 
 #segment-wrapper{
@@ -101,7 +101,7 @@ h1, h2, h3{
 
 #Contact{
    text-align: center;
-   background-color: #8EE4AF;
+   background-color: #379683;
 }
 
 #Intro{
