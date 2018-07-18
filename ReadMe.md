@@ -19,12 +19,11 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
     
     AC: 1.  Ensure page is responsive for all sizes of  browser
 
-~ Change contact to entire section                                          2
++ Change contact to entire section                                          2
     
     AC: 1. Contact is own section that can navigate too
         2. Added to navbar
-    
-~ Further partition my career segment                                       3
++  Further partition my career segment                                       3
 
     AC: 1. Text under my career is distinct (seperated) similar to gary sheng
 
