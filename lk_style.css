@@ -50,10 +50,7 @@ h1, h2, h3{
 #navbar{
   background-color: #8EE4AF;
   background: solid;
-  position: fixed;
-  top: 0;
   width: 100%;
-  z-index: 300;
 }
 
 .active {
@@ -89,7 +86,7 @@ h1, h2, h3{
 
 #Career{
     background-color: #EDF5E1;
-    overflow-y: auto;
+    overflow: auto;
 }
 
 #About{
