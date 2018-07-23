@@ -15,7 +15,7 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 + indicates completed
 ~ indicates to do
 
-~ Fix Responsiveness                                                        8
++ Fix Responsiveness                                                        8
     
     AC: 1.  Ensure page is responsive for all sizes of  browser
 
