@@ -12,20 +12,20 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
 
 # Feature backlog:                                                        Points
 
-+ indicates completed
-~ indicates to do
+[x] indicates completed
+[] indicates to do
 
-+ Fix Responsiveness                                                        8
+[] Get Logo                                                                   2
     
-    AC: 1.  Ensure page is responsive for all sizes of  browser
+        AC: 1.  Logo is added to contact, tab, and navbar(?)
 
-+ Change contact to entire section                                          2
+[] Clean images                                                               3
     
-    AC: 1. Contact is own section that can navigate too
-        2. Added to navbar
-+  Further partition my career segment                                       3
+        AC: 1. Images for my career are presented more clean
+            2. Hero image for welcoming
+[] Research Hosting                                                           3
 
-    AC: 1. Text under my career is distinct (seperated) similar to gary sheng
+        AC: 1. Look into hosting on github, UTCS, maybe hosting some projects
 
 
 
