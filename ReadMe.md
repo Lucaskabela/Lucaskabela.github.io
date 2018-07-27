@@ -23,7 +23,7 @@ Inspirations ~  https://www.cs.utexas.edu/~scottm/  (for the humor, information)
     
         AC: 1. Images for my career are presented more clean
             2. Hero image for welcoming
-[] Research Hosting                                                           3
+[x] Research Hosting                                                           3
 
         AC: 1. Look into hosting on github, UTCS, maybe hosting some projects
 

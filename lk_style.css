@@ -21,8 +21,21 @@ h1, h2, h3{
 }
 
 
+.hero-image {
 
-.slide{
+    background-image: url("https://lh3.googleusercontent.com/uXXX0ZXP8iRN7Hm9nYOd6Drds6c8TBVbg23TRkqDegkXoU_angEMyupF12eSYSsalt9sjOrr3DjNgyanxwWZo0pueVqX5sBU68UZQp4aHyUYJ5OvMrqPRglqIimgmd03MADJYbSbJA=w2400");
+    /* Set a specific height */
+    height: 100%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+    color: white;
 }
 
 #text-wrapper{
@@ -97,7 +110,13 @@ h1, h2, h3{
 }
 
 #About{
-    background-color: #EDF5EF;
+    
+    background-image: url("https://lh3.googleusercontent.com/uXXX0ZXP8iRN7Hm9nYOd6Drds6c8TBVbg23TRkqDegkXoU_angEMyupF12eSYSsalt9sjOrr3DjNgyanxwWZo0pueVqX5sBU68UZQp4aHyUYJ5OvMrqPRglqIimgmd03MADJYbSbJA=w2400");
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #Skills{
